@@ -8,8 +8,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/atombender/go-jsonschema/pkg/codegen"
-	"github.com/atombender/go-jsonschema/pkg/schemas"
+	"github.com/chrisUsick/go-jsonschema/pkg/codegen"
+	"github.com/chrisUsick/go-jsonschema/pkg/schemas"
 	"github.com/pkg/errors"
 )
 

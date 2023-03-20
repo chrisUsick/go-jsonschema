@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/atombender/go-jsonschema/pkg/codegen"
+	"github.com/chrisUsick/go-jsonschema/pkg/codegen"
 	"github.com/pkg/errors"
 	"github.com/sanity-io/litter"
 )
